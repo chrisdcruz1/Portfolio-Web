@@ -23,8 +23,8 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
-    "start": "node fetch.js && react-scripts start",
-    "build": "node fetch.js && react-scripts build",
+    "start": "set NODE_OPTIONS=--openssl-legacy-provider && node fetch.js && react-scripts start",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider && node fetch.js && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "format": "prettier --write \"./**/*.{js,css,json,scss}\"",
