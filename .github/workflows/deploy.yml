@@ -25,14 +25,14 @@ jobs:
       - name: Setup Node.js 🔧
         uses: actions/setup-node@v3.8.1
         with:
-          node-version: '20.17.0'
-          cache: 'npm'
+          node-version: "20.17.0"
+          cache: "npm"
 
       - name: Check Node and npm version
         run: |
           node -v
           npm -v
-          
+
       - name: Update npm 🚀
         run: npm install -g npm@latest
 
