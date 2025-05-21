@@ -23,7 +23,7 @@ const greeting = {
   username: "Saad Paratha",
   title: "Greetings! We're CudaBit",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A Passionate Team of AI Developers with experience in building intelligent applications using Machine Learning, Python, and modern AI frameworks."
   ),
   resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
