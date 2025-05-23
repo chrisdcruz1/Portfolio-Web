@@ -220,7 +220,8 @@ const openSource = {
 
 const bigProjects = {
   title: "Our Projects",
-  subtitle: "A collection of powerful AI-driven solutions and platforms we've crafted from the ground up.",
+  subtitle:
+    "A collection of powerful AI-driven solutions and platforms we've crafted from the ground up.",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
