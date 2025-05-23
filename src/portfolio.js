@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: require("./assets/images/cudabit.png"),
+  username: "CudaBit",
   title: "Greetings! We're CudaBit",
   subTitle: emoji(
     "A Passionate Team of AI Developers with experience in building intelligent applications using Machine Learning, Python, and modern AI frameworks."
