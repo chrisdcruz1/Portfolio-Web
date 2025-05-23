@@ -23,7 +23,7 @@ const greeting = {
   username: "CudaBit",
   title: "Greetings! We're CudaBit",
   subTitle:
-    "A Passionate Team of AI Developers with experience in building intelligent applications using Machine Learning, Python, and modern AI frameworks.",
+    "A Passionate Team of AI Developers with Experience in Machine Learning, Python, and modern AI frameworks, we build intelligent applications that solve real-world problems. From NLP and computer vision to autonomous agents and edge AI, we deliver scalable and data-driven solutions.",
   resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
@@ -219,8 +219,8 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Our Projects",
+  subtitle: "A collection of powerful AI-driven solutions and platforms we've crafted from the ground up.",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
