@@ -47,24 +47,10 @@ export default function Skills() {
             <div>
               {skillsSection.skills.map((skills, i) => (
                 <div key={i} className="skill-item">
-                  <p
-                    className={
-                      isDark
-                        ? "dark-mode subTitle skills-text skill-title"
-                        : "subTitle skills-text skill-title"
-                    }
-                    style={{marginBottom: "0.2em"}}
-                  >
+                  <p className="subTitle skills-text skill-title" style={{marginBottom: "0.2em"}}>
                     {skills.title}
                   </p>
-                  <p
-                    className={
-                      isDark
-                        ? "dark-mode subTitle skills-desc"
-                        : "subTitle skills-desc"
-                    }
-                    style={{marginTop: 0, marginBottom: "1em", fontSize: "1em"}}
-                  >
+                  <p className="subTitle skills-desc" style={{marginTop: 0, marginBottom: "1em", fontSize: "1em"}}>
                     {skills.desc}
                   </p>
                 </div>
