@@ -18,7 +18,7 @@ export default function SplashScreen() {
           <img
             src={logoImage}
             alt="CudaBit"
-            style={{maxHeight: "48px", width: "auto", verticalAlign: "middle"}}
+            style={{maxHeight: "300px", width: "auto", verticalAlign: "middle"}}
           />
         </span>
         {/* <span className="grey-color">/&gt;</span> */}
