@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Paratha",
+  username: "CudaBit",
   title: "Greetings! We're CudaBit",
   subTitle: emoji(
     "A Passionate Team of AI Developers with experience in building intelligent applications using Machine Learning, Python, and modern AI frameworks."
@@ -47,7 +47,7 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
+  title: "What We Do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
@@ -372,7 +372,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  email_address: "cudabit@cudabit.live"
 };
 
 // Twitter Section
