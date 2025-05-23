@@ -55,7 +55,7 @@ export default function Skills() {
                     }
                     style={{marginBottom: "0.2em"}}
                   >
-                    {skill.title}
+                    {skills.title}
                   </p>
                   <p
                     className={
@@ -65,7 +65,7 @@ export default function Skills() {
                     }
                     style={{marginTop: 0, marginBottom: "1em", fontSize: "1em"}}
                   >
-                    {skill.desc}
+                    {skills.desc}
                   </p>
                 </div>
               ))}
