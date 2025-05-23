@@ -13,7 +13,7 @@ import {
   talkSection,
   achievementSection,
   resumeSection,
-  bigProjectsSection,
+  bigProjectsSection
 } from "../../portfolio";
 
 function Header() {
@@ -32,7 +32,11 @@ function Header() {
       <header className={isDark ? "dark-menu header" : "header"}>
         <a href="/" className="logo">
           <span className="grey-color"> &lt;</span>
-          <img src={logoImage} alt="CudaBit" style={{height: "24px",verticalAlign: "middle",}}/>
+          <img
+            src={logoImage}
+            alt="CudaBit"
+            style={{height: "24px", verticalAlign: "middle"}}
+          />
           <span className="grey-color">/&gt;</span>
         </a>
         <input className="menu-btn" type="checkbox" id="menu-btn" />
