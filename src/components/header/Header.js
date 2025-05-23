@@ -13,7 +13,7 @@ import {
   talkSection,
   achievementSection,
   resumeSection,
-  bigProjectsSection
+  bigProjects
 } from "../../portfolio";
 
 function Header() {
@@ -25,7 +25,7 @@ function Header() {
   const viewBlog = blogSection.display;
   const viewTalks = talkSection.display;
   const viewResume = resumeSection.display;
-  const viewBigProjects = bigProjectsSection.display;
+  const viewBigProjects = bigProjects.display;
 
   return (
     <Headroom>
