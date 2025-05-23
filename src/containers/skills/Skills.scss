@@ -1,28 +1,28 @@
 @import "../../_globalColor";
 
-.skill-item {
-  margin-bottom: 2em;
-}
+// .skill-item {
+//   margin-bottom: 2em;
+// }
 
-.skill-title {
-  font-size: 1.3em;
-  font-weight: 600;
-  color: $textColor;
-}
+// .skill-title {
+//   font-size: 1.3em;
+//   font-weight: 600;
+//   color: $textColor;
+// }
 
-.dark-mode .skill-title {
-  color: $textColorDark;
-}
+// .dark-mode .skill-title {
+//   color: $textColorDark;
+// }
 
-.skill-desc {
-  font-size: 1em;
-  color: $subTitle;
-  margin-bottom: 0.5em;
-}
+// .skill-desc {
+//   font-size: 1em;
+//   color: $subTitle;
+//   margin-bottom: 0.5em;
+// }
 
-.dark-mode .skill-desc {
-  color: $subTitleDark;
-}
+// .dark-mode .skill-desc {
+//   color: $subTitleDark;
+// }
 
 .skills-main-div {
   display: flex;
