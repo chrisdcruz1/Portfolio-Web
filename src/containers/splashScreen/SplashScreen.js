@@ -1,7 +1,7 @@
 import React, {useContext} from "react";
 import "./SplashScreen.css";
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
-import logoImage from "../ToggleSwitch/cudabit1.png";
+import logoImage from "./cudabit1.png";
 import {greeting, splashScreen} from "../../portfolio";
 import StyleContext from "../../contexts/StyleContext";
 
