@@ -3,6 +3,7 @@ import Headroom from "react-headroom";
 import "./Header.scss";
 import ToggleSwitch from "../ToggleSwitch/ToggleSwitch";
 import StyleContext from "../../contexts/StyleContext";
+import logoImage from "../assets/images/cudabit1.png";
 import {
   greeting,
   workExperiences,
@@ -12,7 +13,7 @@ import {
   talkSection,
   achievementSection,
   resumeSection,
-  bigProjects
+  bigProjectsSection,
 } from "../../portfolio";
 
 function Header() {
@@ -24,14 +25,14 @@ function Header() {
   const viewBlog = blogSection.display;
   const viewTalks = talkSection.display;
   const viewResume = resumeSection.display;
-  const viewBigProjects = bigProjects.display;
+  const viewBigProjects = bigProjectsSection.display;
 
   return (
     <Headroom>
       <header className={isDark ? "dark-menu header" : "header"}>
         <a href="/" className="logo">
           <span className="grey-color"> &lt;</span>
-          <span className="logo-name">{greeting.username}</span>
+          <img src={logoImage} alt="CudaBit" style={{height: "24px",verticalAlign: "middle",}}/>
           <span className="grey-color">/&gt;</span>
         </a>
         <input className="menu-btn" type="checkbox" id="menu-btn" />
