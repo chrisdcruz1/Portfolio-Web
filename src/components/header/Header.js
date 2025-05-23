@@ -31,13 +31,13 @@ function Header() {
     <Headroom>
       <header className={isDark ? "dark-menu header" : "header"}>
         <a href="/" className="logo">
-          <span className="grey-color"> &lt;</span>
+          {/* <span className="grey-color"> &lt;</span> */}
           <img
             src={logoImage}
             alt="CudaBit"
-            style={{height: "24px", verticalAlign: "middle"}}
+            style={{height: "60px", verticalAlign: "middle"}}
           />
-          <span className="grey-color">/&gt;</span>
+          {/* <span className="grey-color">/&gt;</span> */}
         </a>
         <input className="menu-btn" type="checkbox" id="menu-btn" />
         <label
