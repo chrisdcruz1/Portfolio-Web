@@ -35,7 +35,7 @@ function Header() {
           <img
             src={logoImage}
             alt="CudaBit"
-            style={{verticalAlign: "middle"}}
+            style={{height: "24px", verticalAlign: "middle"}}
           />
           {/* <span className="grey-color">/&gt;</span> */}
         </a>
