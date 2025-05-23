@@ -47,15 +47,24 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What We Do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "TEAM OF PASSIONATE AI INNOVATORS EXPLORING THE EDGE OF TECHNOLOGY",
   skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+    {
+      title: emoji("🧠 AI / ML & Deep Learning"),
+      desc: "Building neural networks, computer vision, NLP, and advanced analytics."
+    },
+    {
+      title: emoji("🤖 Agentic AI & RAG Systems"),
+      desc: "Developing agentic AI, retrieval-augmented generation, and autonomous systems."
+    },
+    {
+      title: emoji("☁️ Cloud & MLOps"),
+      desc: "Deploying scalable AI on AWS, Azure, GCP, and automating ML pipelines."
+    },
+    {
+      title: emoji("⚙️ Edge AI & MedTech"),
+      desc: "AI for healthcare, IoT, and edge devices with real-time processing."
+    }
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
