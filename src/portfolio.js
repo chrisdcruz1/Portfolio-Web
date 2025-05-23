@@ -22,9 +22,7 @@ const illustration = {
 const greeting = {
   username: "CudaBit",
   title: "Greetings! We're CudaBit",
-  subTitle: emoji(
-    "A Passionate Team of AI Developers with experience in building intelligent applications using Machine Learning, Python, and modern AI frameworks."
-  ),
+  subTitle: "A Passionate Team of AI Developers with experience in building intelligent applications using Machine Learning, Python, and modern AI frameworks.",
   resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
