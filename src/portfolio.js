@@ -237,7 +237,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/LLM.jpg"),
+      image: require("./assets/images/LLM_new.jpg"),
       projectName: "Edge-LLM: Optimized Qwen2.5-3B with GPTQ",
       projectDesc:
         "Edge-LLM is a lightweight and efficient deployment of the Qwen2.5-3B model, quantized using GPTQ to enable fast, low-memory inference on edge devices",
@@ -249,7 +249,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/multimodel.jpg"),
+      image: require("./assets/images/multimodel_new.jpg"),
       projectName: "Multi-Modal Learning for Image and Text Analysis",
       projectDesc:
         "This project aims to generate descriptive captions for images using a combination of deep learning techniques for vision-language models.",
