@@ -403,7 +403,7 @@ const resumeSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("Contact Us ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+91-7250820825",
