@@ -3,7 +3,7 @@ import Headroom from "react-headroom";
 import "./Header.scss";
 import ToggleSwitch from "../ToggleSwitch/ToggleSwitch";
 import StyleContext from "../../contexts/StyleContext";
-import logoImage from "../ToggleSwitch/cudabit1.png";
+import logoImage from "../ToggleSwitch/cudabit_cut.png";
 import {
   greeting,
   workExperiences,
