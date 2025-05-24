@@ -225,46 +225,50 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "MedMNIST-EdgeAI",
+      projectDesc:
+        "MedMNIST-EdgeAI is an edge-optimized deep learning pipeline focused on medical image classification using the MedMNIST dataset collection.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Visit Project",
+          url: "https://github.com/STiFLeR7/MedMNIST-EdgeAI"
         }
         //  you can add extra buttons here.
       ]
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Edge-LLM: Optimized Qwen2.5-3B with GPTQ",
+      projectDesc:
+        "Edge-LLM is a lightweight and efficient deployment of the Qwen2.5-3B model, quantized using GPTQ to enable fast, low-memory inference on edge devices",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Visit Project",
+          url: "https://github.com/STiFLeR7/Edge-LLM"
         }
       ]
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Multi-Modal Learning for Image and Text Analysis",
+      projectDesc:
+        "This project aims to generate descriptive captions for images using a combination of deep learning techniques for vision-language models.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Visit Project",
+          url: "https://github.com/STiFLeR7/Multi-Modal-Learning-for-Image-and-Text-Analysis"
         }
       ]
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Deployable RAG Pipeline for Local & Edge Systems",
+      projectDesc:
+        "A unified, efficient RAG pipeline optimized for edge & local deployments.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Visit Project",
+          url: "https://github.com/pyschofives/xRAG-LLM "
         }
       ]
     }
