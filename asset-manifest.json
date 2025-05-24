@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.3dd6cae0.chunk.css",
-    "main.js": "/static/js/main.061502b1.chunk.js",
-    "main.js.map": "/static/js/main.061502b1.chunk.js.map",
+    "main.js": "/static/js/main.68362e33.chunk.js",
+    "main.js.map": "/static/js/main.68362e33.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.25cb5873.js",
     "runtime-main.js.map": "/static/js/runtime-main.25cb5873.js.map",
     "static/js/2.11eca081.chunk.js": "/static/js/2.11eca081.chunk.js",
@@ -14,14 +14,14 @@
     "static/js/4.9336b9d3.chunk.js": "/static/js/4.9336b9d3.chunk.js",
     "static/js/4.9336b9d3.chunk.js.map": "/static/js/4.9336b9d3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dcee8ecbe52af14e8b425979c7f1e425.js": "/precache-manifest.dcee8ecbe52af14e8b425979c7f1e425.js",
+    "precache-manifest.3cf987d42d20e47551a2dea98918b5c4.js": "/precache-manifest.3cf987d42d20e47551a2dea98918b5c4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/static/css/4.d7ceb645.chunk.css.map",
     "static/css/main.3dd6cae0.chunk.css.map": "/static/css/main.3dd6cae0.chunk.css.map",
     "static/js/2.11eca081.chunk.js.LICENSE.txt": "/static/js/2.11eca081.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/LLM.jpg": "/static/media/LLM.bd318be0.jpg",
+    "static/media/LLM_new.jpg": "/static/media/LLM_new.f58ec23f.jpg",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
     "static/media/codeInLogo.webp": "/static/media/codeInLogo.47a7a717.webp",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
@@ -33,7 +33,7 @@
     "static/media/harvardLogo.png": "/static/media/harvardLogo.35ef5e91.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/med.jpg": "/static/media/med.715eda16.jpg",
-    "static/media/multimodel.jpg": "/static/media/multimodel.5d16cee4.jpg",
+    "static/media/multimodel_new.jpg": "/static/media/multimodel_new.88abc356.jpg",
     "static/media/pwaLogo.webp": "/static/media/pwaLogo.ee62cb58.webp",
     "static/media/quoraLogo.png": "/static/media/quoraLogo.4b2938b9.png",
     "static/media/rag.jpg": "/static/media/rag.5552254b.jpg",
@@ -46,6 +46,6 @@
     "static/js/runtime-main.25cb5873.js",
     "static/js/2.11eca081.chunk.js",
     "static/css/main.3dd6cae0.chunk.css",
-    "static/js/main.061502b1.chunk.js"
+    "static/js/main.68362e33.chunk.js"
   ]
 }
