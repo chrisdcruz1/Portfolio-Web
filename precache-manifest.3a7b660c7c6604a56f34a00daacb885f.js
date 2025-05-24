@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8cacfe962ca8912ea46a8417fe905009",
+    "revision": "bdc7d1e0fa041a42cf2417659a36072f",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "b60ca3019d52b0be8c95",
+    "revision": "e7a2f51057b2b0db8313",
     "url": "/static/css/main.3dd6cae0.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.9336b9d3.chunk.js"
   },
   {
-    "revision": "b60ca3019d52b0be8c95",
-    "url": "/static/js/main.68362e33.chunk.js"
+    "revision": "e7a2f51057b2b0db8313",
+    "url": "/static/js/main.7c4543da.chunk.js"
   },
   {
     "revision": "636dd93cc00622fb2e01",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "f58ec23fbd38ca4f74fead7ef4b44925",
-    "url": "/static/media/LLM_new.f58ec23f.jpg"
+    "revision": "ddf4ac76abad48e00588a1eb3c34a453",
+    "url": "/static/media/LLM_new.ddf4ac76.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "715eda16ee9d26721eb81428417a9840",
-    "url": "/static/media/med.715eda16.jpg"
+    "revision": "b05892c9a1a8ee27c086fc27278e9ed5",
+    "url": "/static/media/med_new.b05892c9.png"
   },
   {
     "revision": "88abc3567b07563c0ae5bcd6df74285f",
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/quoraLogo.4b2938b9.png"
   },
   {
-    "revision": "5552254b17f665539c60dc2050d2fce7",
-    "url": "/static/media/rag.5552254b.jpg"
+    "revision": "4aca57aa1ce36d99e687d036ff6bb6c8",
+    "url": "/static/media/rag_new.4aca57aa.png"
   },
   {
     "revision": "91ccb92e60eb65fe6bce0a9a49386a4c",
