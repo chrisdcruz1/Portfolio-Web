@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.6e75e26a.chunk.css",
-    "main.js": "/static/js/main.b38bf5b5.chunk.js",
-    "main.js.map": "/static/js/main.b38bf5b5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.25cb5873.js",
-    "runtime-main.js.map": "/static/js/runtime-main.25cb5873.js.map",
+    "main.js": "/static/js/main.4891f97b.chunk.js",
+    "main.js.map": "/static/js/main.4891f97b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.226486f7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.226486f7.js.map",
     "static/js/2.11eca081.chunk.js": "/static/js/2.11eca081.chunk.js",
     "static/js/2.11eca081.chunk.js.map": "/static/js/2.11eca081.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
-    "static/js/3.bffb71af.chunk.js": "/static/js/3.bffb71af.chunk.js",
-    "static/js/3.bffb71af.chunk.js.map": "/static/js/3.bffb71af.chunk.js.map",
+    "static/js/3.49a07583.chunk.js": "/static/js/3.49a07583.chunk.js",
+    "static/js/3.49a07583.chunk.js.map": "/static/js/3.49a07583.chunk.js.map",
     "static/css/4.d7ceb645.chunk.css": "/static/css/4.d7ceb645.chunk.css",
-    "static/js/4.9336b9d3.chunk.js": "/static/js/4.9336b9d3.chunk.js",
-    "static/js/4.9336b9d3.chunk.js.map": "/static/js/4.9336b9d3.chunk.js.map",
+    "static/js/4.aa5171dc.chunk.js": "/static/js/4.aa5171dc.chunk.js",
+    "static/js/4.aa5171dc.chunk.js.map": "/static/js/4.aa5171dc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ead435f2accc87591a172d15dab7a428.js": "/precache-manifest.ead435f2accc87591a172d15dab7a428.js",
+    "precache-manifest.ecd70d0cdc2fb1fe91b6172534037cda.js": "/precache-manifest.ecd70d0cdc2fb1fe91b6172534037cda.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/static/css/4.d7ceb645.chunk.css.map",
@@ -37,15 +37,14 @@
     "static/media/pwaLogo.webp": "/static/media/pwaLogo.ee62cb58.webp",
     "static/media/quoraLogo.png": "/static/media/quoraLogo.4b2938b9.png",
     "static/media/rag_new.png": "/static/media/rag_new.4aca57aa.png",
-    "static/media/resume.pdf": "/static/media/resume.91ccb92e.pdf",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/stanfordLogo.png": "/static/media/stanfordLogo.3b758ef5.png",
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.25cb5873.js",
+    "static/js/runtime-main.226486f7.js",
     "static/js/2.11eca081.chunk.js",
     "static/css/main.6e75e26a.chunk.css",
-    "static/js/main.b38bf5b5.chunk.js"
+    "static/js/main.4891f97b.chunk.js"
   ]
 }
