@@ -224,7 +224,7 @@ const bigProjects = {
     "A collection of powerful AI-driven solutions and platforms we've crafted from the ground up.",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/med.jpg"),
       projectName: "MedMNIST-EdgeAI",
       projectDesc:
         "MedMNIST-EdgeAI is an edge-optimized deep learning pipeline focused on medical image classification using the MedMNIST dataset collection.",
@@ -237,7 +237,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/LLM.jpg"),
       projectName: "Edge-LLM: Optimized Qwen2.5-3B with GPTQ",
       projectDesc:
         "Edge-LLM is a lightweight and efficient deployment of the Qwen2.5-3B model, quantized using GPTQ to enable fast, low-memory inference on edge devices",
@@ -249,7 +249,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/multimodel.jpg"),
       projectName: "Multi-Modal Learning for Image and Text Analysis",
       projectDesc:
         "This project aims to generate descriptive captions for images using a combination of deep learning techniques for vision-language models.",
@@ -261,7 +261,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/rag.jpg"),
       projectName: "Deployable RAG Pipeline for Local & Edge Systems",
       projectDesc:
         "A unified, efficient RAG pipeline optimized for edge & local deployments.",
