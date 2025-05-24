@@ -1,47 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7194e6099aeb1ce863aa59eddda8462",
+    "revision": "cee7235386a5448bf8b9c36e6bdfff41",
     "url": "/index.html"
   },
   {
-    "revision": "fd18a46a1616d3b6c90e",
+    "revision": "065e20c1f596c42ae00c",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "7f680d60f5e8ead03f4f",
+    "revision": "b3008372d0524be14a8a",
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "4de394c1bfe1ecfef2b4",
+    "revision": "74f54365080c1fb86152",
     "url": "/static/css/main.3dd6cae0.chunk.css"
   },
   {
-    "revision": "a225de8eff37dd1385b2",
-    "url": "/static/js/2.a5d1192e.chunk.js"
+    "revision": "c594b69536d9052bf263",
+    "url": "/static/js/2.11eca081.chunk.js"
   },
   {
     "revision": "d4d701abc30fcef5f714584a64df6e82",
-    "url": "/static/js/2.a5d1192e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.11eca081.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd18a46a1616d3b6c90e",
-    "url": "/static/js/3.f1026038.chunk.js"
+    "revision": "065e20c1f596c42ae00c",
+    "url": "/static/js/3.bffb71af.chunk.js"
   },
   {
-    "revision": "7f680d60f5e8ead03f4f",
-    "url": "/static/js/4.38809caa.chunk.js"
+    "revision": "b3008372d0524be14a8a",
+    "url": "/static/js/4.9336b9d3.chunk.js"
   },
   {
-    "revision": "4de394c1bfe1ecfef2b4",
-    "url": "/static/js/main.f734cd9c.chunk.js"
+    "revision": "74f54365080c1fb86152",
+    "url": "/static/js/main.061502b1.chunk.js"
   },
   {
-    "revision": "f07946f681cae38d930d",
-    "url": "/static/js/runtime-main.b0a82674.js"
+    "revision": "636dd93cc00622fb2e01",
+    "url": "/static/js/runtime-main.25cb5873.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "bd318be006912b4229ed74f00d1d1e38",
+    "url": "/static/media/LLM.bd318be0.jpg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -88,8 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
+    "revision": "715eda16ee9d26721eb81428417a9840",
+    "url": "/static/media/med.715eda16.jpg"
+  },
+  {
+    "revision": "5d16cee413599cbc935e438c13df9429",
+    "url": "/static/media/multimodel.5d16cee4.jpg"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
@@ -100,12 +108,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/quoraLogo.4b2938b9.png"
   },
   {
-    "revision": "91ccb92e60eb65fe6bce0a9a49386a4c",
-    "url": "/static/media/resume.91ccb92e.pdf"
+    "revision": "5552254b17f665539c60dc2050d2fce7",
+    "url": "/static/media/rag.5552254b.jpg"
   },
   {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
+    "revision": "91ccb92e60eb65fe6bce0a9a49386a4c",
+    "url": "/static/media/resume.91ccb92e.pdf"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
